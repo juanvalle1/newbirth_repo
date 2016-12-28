@@ -1,2 +1,3 @@
 # newbirth_repo
-Very first repository
+Very first repository.
+Hey, I'm a (JW.org) family man looking to expand my knowledge database and reach new levels of coding... 
